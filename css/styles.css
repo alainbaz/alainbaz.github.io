@@ -34,7 +34,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #D3AF02;
+  color: #fff;
 }
 hr {
   border-top: 1px solid #e5e5e5;
@@ -69,7 +69,7 @@ color: #000000;
   color: #3A3A3A;
 }
 .section-header .section-title:before {
-  content: "-----< o >----";
+  content: "oooooooooooo";
   position: absolute;
   width: 140px;
   bottom: 4px;
@@ -105,7 +105,7 @@ padding:0px;
 }
 .listarrow li i{
 padding-right: 17px;
-color: #F6CC07;
+color: #2caab3;
 /* font-size: 16px; */
 }
 .column-title {
@@ -604,8 +604,9 @@ margin: 0 8px;
   padding: 100px 0;
   background: #3A3A3A;
   /* background: url('../images/img2.jpg'); */    
-  background-size: cover;  };
-}
+  background-size: cover; 
+ }
+
 #about .column-title{
 color:#fff;
 }
@@ -935,10 +936,10 @@ text-align: center;
 }
 /*hero-action-section*/
 .hero-action-section {
-    background-image: url("../images/img2.jpg");
+    background-image: url("../images/reserve.jpg ");
     text-align: center;
     color: #fff;
-    padding: 60px 0;
+    padding: 0px 0;
 }
 
 .hero-action-subtitle,
@@ -1050,3 +1051,21 @@ margin: 9px auto;
 padding: 7px 0 0;
 }
 }
+
+
+
+/* alan */
+.service-box:hover {
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+margin-top: -10px;
+
+}
+
+.testimony-user-icon {
+  font-size: 64px;
+}
+
+
+/* gallerie */
