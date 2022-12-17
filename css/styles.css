@@ -1083,3 +1083,14 @@ margin-top: -10px;
 .testimony-user-icon {
   font-size: 64px;
 }
+
+.round-border-btn{
+border-radius: 10px;
+}
+
+.round-border-btn:hover {
+-webkit-transition: all 0.1s ease-in;
+-moz-transition: all .2s ease-in-out;
+transition: all 0.1s ease-out;
+margin-top: -10px;
+}
