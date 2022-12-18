@@ -1096,7 +1096,7 @@ margin-top: -10px;
 }
 
 .reservation-btn{
-background-color: var(--myGray);
+/* background-color: var(--myGreen); */
 color: var(--myBlack);
 border-bottom: #085C98;
 }
